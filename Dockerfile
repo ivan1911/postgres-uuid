@@ -1,7 +1,5 @@
 FROM postgres
 
-MAINTAINER Ivan Kiselev
-
 RUN apt-get update && apt-get install -y postgresql-contrib
 
 ADD createExtension.sh /docker-entrypoint-initdb.d/
