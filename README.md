@@ -3,5 +3,12 @@ The official [Postgres Docker image](https://registry.hub.docker.com/_/postgres/
 
 The uuid extension is installed and enabled.
 
-Docker image is available on Docker Hub
+## Docker image is available on Docker Hub
 `docker pull ivan1911/postgres-uuid`
+
+## Supported tags
+
+- `13`, `latest`
+- `12`
+- `11`
+- `10`
