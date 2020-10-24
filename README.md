@@ -4,4 +4,4 @@ The official [Postgres Docker image](https://registry.hub.docker.com/_/postgres/
 The uuid extension is installed and enabled.
 
 Docker image is available on Docker Hub
-`docker pull fintrace/postgres-uuid`
+`docker pull ivan1911/postgres-uuid`
